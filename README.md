@@ -1,8 +1,8 @@
 # dinoChrome
 
-A version of the chrome dino game build using Phaser3.
+A version of the Google Chrome 'Dino' game. Built using Phaser3.
 
-## install guide
+## Installation guide
 
 - Unzip the folder
 - cd into the "dino-chrome-clone" level
